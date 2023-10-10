@@ -37,6 +37,7 @@ class _HomePageState extends State<HomePage> {
 
   // Llave global
   // final GlobalKey<FormState> formKey = GlobalKey<FormState>();
+  // Prueba de commit
   final _formKey = GlobalKey<FormState>();
   final Future<SharedPreferences> _prefs = SharedPreferences.getInstance();
 
